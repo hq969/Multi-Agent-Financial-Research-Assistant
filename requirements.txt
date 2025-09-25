@@ -1,0 +1,12 @@
+boto3
+streamlit
+requests
+python-dotenv
+openai
+langchain
+langgraph-sdk
+pydantic
+pandas
+numpy
+nltk
+textblob
